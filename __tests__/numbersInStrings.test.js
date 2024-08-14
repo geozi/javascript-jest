@@ -1,4 +1,5 @@
 /**
+ * Return-value tests.
  * The numInStr() function has 1 exit point
  * with 2 possible outcomes: an array of string tokens
  * or an empty array. Given the outcomes, there should be

@@ -1,4 +1,5 @@
 /**
+ * Return-value tests.
  * The findElement() method has 1 exit point
  * with 2 different outcomes: true or false.
  * Thus, the number of tests must be at least 2.

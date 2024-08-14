@@ -1,4 +1,5 @@
 /**
+ * Return-value tests.
  * The findDuplicates() method has 1 exit point, which
  * is always an array. Therefore, tests are differentiated
  * based on their input.

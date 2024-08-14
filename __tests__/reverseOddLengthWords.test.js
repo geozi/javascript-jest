@@ -1,5 +1,5 @@
 /**
- * Return-value test.
+ * Return-value tests.
  * The reverseOdd() function always returns
  * a String. Thus, the tests will be differentiated
  * based on their input.

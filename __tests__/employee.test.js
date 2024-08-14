@@ -1,4 +1,5 @@
 /**
+ * State-change tests.
  * The code under test is a simple class,
  * thus the tests will be state-based.
  */

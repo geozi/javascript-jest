@@ -1,4 +1,5 @@
 /**
+ * Return-value tests.
  * The findLargest() method has 1 exit point,
  * which is always a number. Thus, the tests
  * will be input-based: each test will have a
