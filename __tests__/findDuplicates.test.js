@@ -1,8 +1,7 @@
 /**
  * Return-value tests.
- * The findDuplicates() method has 1 exit point, which
- * is always an array. Therefore, tests are differentiated
- * based on their input.
+ * The findDuplicates(arr) method has 1 exit point, which
+ * is always an array. The tests are developed per input.
  */
 const findDuplicates = require("../src/findDuplicates");
 

@@ -1,8 +1,8 @@
 /**
  * Return-value tests.
- * The isEven() method has 1 exit point with
- * 2 possible outcomes: true or false. Therefore, the
- * number of tests must be at least 2, 1 per outcome.
+ * The isEven(number : Number) method has 1 exit point with
+ * 2 possible outcomes: true or false. The tests are
+ * developed per outcome.
  */
 
 const isEven = require("..//src/oddOrEvenSum");

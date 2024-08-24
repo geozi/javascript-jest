@@ -1,8 +1,8 @@
 /**
  * Return-value tests.
- * The findElement() method has 1 exit point
+ * The findElement(arr, el) method has 1 exit point
  * with 2 different outcomes: true or false.
- * Thus, the number of tests must be at least 2.
+ * The tests are developed per outcome and per input.
  */
 
 const find = require("../src/findElement");

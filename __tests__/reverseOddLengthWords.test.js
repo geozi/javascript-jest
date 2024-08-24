@@ -1,8 +1,7 @@
 /**
  * Return-value tests.
- * The reverseOdd() function always returns
- * a String. Thus, the tests will be differentiated
- * based on their input.
+ * The reverseOdd(str : String) function always returns
+ * a String. The test are developed per input.
  */
 
 const reverseOdd = require("../src/reverseOddLengthWords");

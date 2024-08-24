@@ -1,9 +1,9 @@
 /**
  * Return-value tests.
- * The numInStr() function has 1 exit point
+ * The numInStr(arr) function has 1 exit point
  * with 2 possible outcomes: an array of string tokens
- * or an empty array. Given the outcomes, there should be
- * at least 2 tests, 1 per outcome.
+ * or an empty array. The tests are developed per input
+ * and per outcome.
  */
 
 const numInStr = require("..//src/numbersInStrings");

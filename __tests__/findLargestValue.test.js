@@ -1,9 +1,8 @@
 /**
  * Return-value tests.
- * The findLargest() method has 1 exit point,
- * which is always a number. Thus, the tests
- * will be input-based: each test will have a
- * different input.
+ * The findLargest(arr) method has 1 exit point,
+ * which is always a number. The tests are
+ * developed per input.
  */
 
 const findLargest = require("../src/findLargestValue");
