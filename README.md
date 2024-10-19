@@ -7,12 +7,17 @@ The project showcases the use of Jest for performing unit tests on plain JavaScr
 ### Prerequisites
 To run the tests, the following will be needed: 
 * Node.js (v20.11.1 or higher)
-* Jest (29.7.0 or higher)
 
+### Dependencies
+```
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,nodejs&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,nodejs,jest&theme=light"/>
 	 
   </a>
 </p>
